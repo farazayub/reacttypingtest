@@ -20,8 +20,7 @@ const App = () => {
 	const [ wpm, setWpm ] = useState(0)
 	const [ accuracy, setAccuracy ] = useState(0)
 	const [ isError, setIsError ] = useState(false)
-	const [ lastScore, setLastScore ] = useState('0')
-
+	const [ lastScore, setLastScore ] = useState('0') 
 	useEffect(() => {
 		const newQuote = random(quotesArray)
 		setQuote(newQuote)
