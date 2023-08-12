@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reacttypingtest/static/css/main.bb79239d.css",
+    "main.js": "/reacttypingtest/static/js/main.81f6ab9f.js",
+    "index.html": "/reacttypingtest/index.html",
+    "main.bb79239d.css.map": "/reacttypingtest/static/css/main.bb79239d.css.map",
+    "main.81f6ab9f.js.map": "/reacttypingtest/static/js/main.81f6ab9f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb79239d.css",
+    "static/js/main.81f6ab9f.js"
+  ]
+}
